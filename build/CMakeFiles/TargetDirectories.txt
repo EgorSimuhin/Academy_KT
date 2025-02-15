@@ -1,7 +1,0 @@
-/home/egorsimuhin/Repozitories/Academy_KT/build/CMakeFiles/circle.dir
-/home/egorsimuhin/Repozitories/Academy_KT/build/CMakeFiles/Owl.dir
-/home/egorsimuhin/Repozitories/Academy_KT/build/CMakeFiles/cub.dir
-/home/egorsimuhin/Repozitories/Academy_KT/build/CMakeFiles/tokamak.dir
-/home/egorsimuhin/Repozitories/Academy_KT/build/CMakeFiles/cylinder.dir
-/home/egorsimuhin/Repozitories/Academy_KT/build/CMakeFiles/edit_cache.dir
-/home/egorsimuhin/Repozitories/Academy_KT/build/CMakeFiles/rebuild_cache.dir
