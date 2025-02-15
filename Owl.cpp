@@ -19,7 +19,7 @@ int main(int argc, char **argv)
   // Let's merge an STL mesh that we would like to remesh (from the parent
   // directory):
   try {
-    gmsh::merge("../t800.stl");
+    gmsh::merge("../OwlStatue.stl");
   } catch(...) {
     gmsh::logger::write("Could not load STL mesh: bye!");
     gmsh::finalize();
@@ -69,7 +69,7 @@ int main(int argc, char **argv)
   if(funny)
     gmsh::model::mesh::field::setString(f, "F", "2*sin((y + x)/5) + 3");
   else
-    gmsh::model::mesh::field::setString(f, "F", "400");
+    gmsh::model::mesh::field::setString(f, "F", "2");
   gmsh::model::mesh::field::setAsBackgroundMesh(f);
 
   gmsh::model::mesh::generate(3);
