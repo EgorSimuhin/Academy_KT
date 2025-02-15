@@ -1,0 +1,1 @@
+/usr/bin/c++ -std=c++11 -g CMakeFiles/tokamak.dir/first/tokamak.cpp.o -o tokamak  /usr/lib/x86_64-linux-gnu/libgmsh.so 
