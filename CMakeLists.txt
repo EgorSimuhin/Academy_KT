@@ -4,9 +4,9 @@ set(CMAKE_CXX_FLAGS "-std=c++11 -g")
 
 project(gmshdemo)
 add_executable(circle circle.cpp)
-add_executable(Owl Owl.cpp)
+add_executable(Owl second/Owl.cpp)
 add_executable(cub cub.cpp)
-add_executable(tokamak tokamak.cpp)
+add_executable(tokamak first/tokamak.cpp)
 add_executable(cylinder cylinder.cpp)
 # --- Подключаем gmsh, тут придется перебирать варианты 
 
