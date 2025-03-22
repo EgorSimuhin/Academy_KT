@@ -1,0 +1,3 @@
+/home/egorsimuhin/Repozitories/Academy_KT/Laba1/build/CMakeFiles/Owl.dir
+/home/egorsimuhin/Repozitories/Academy_KT/Laba1/build/CMakeFiles/edit_cache.dir
+/home/egorsimuhin/Repozitories/Academy_KT/Laba1/build/CMakeFiles/rebuild_cache.dir
